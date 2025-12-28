@@ -1,0 +1,5 @@
+pyrogram==2.0.106
+tgcrypto==1.2.5
+python-dotenv==1.0.1
+colorama==0.4.6
+tqdm==4.66.5
